@@ -1,3 +1,3 @@
-import "./js/makkup"
-import "./js/paginatoin"
-import "./js/photo-api"
+import "./js/get-img-api"
+import "./js/make-markup"
+import "./js/pagination"

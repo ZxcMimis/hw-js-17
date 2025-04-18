@@ -1,4 +1,4 @@
-import { getImgages } from './photo-api'
+import { getImgages } from './get-img-api'
 
 export let perPage = 9
 export let pageVar = 1
